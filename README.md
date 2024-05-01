@@ -1,12 +1,4 @@
 
-### Hi there 👋
-**PedroThiago02/Pedro Thiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning: Python
-- 😄 Pronouns: she/her
--->
 # PedroThiago02 :man_technologist:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
