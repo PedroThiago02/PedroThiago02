@@ -17,4 +17,4 @@ My name is Pedro Thiago and ...:
 
 <h3 align="left">Languages and Tools:
 </h3>
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" height="65"><img src="https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=256" width="65" height="65"><img src="https://icon-library.com/images/js-icon/js-icon-26.jpg" width="50" height="65"> 
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" height="63"><img src="https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=256" width="65" height="65"><img src="https://icon-library.com/images/js-icon/js-icon-26.jpg" width="50" height="65"> 
