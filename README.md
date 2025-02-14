@@ -1,5 +1,5 @@
 
-# PedroThiago02 :man_technologist:
+# Pedro Thiago :man_technologist:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
