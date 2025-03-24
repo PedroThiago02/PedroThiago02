@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 </p>
 
 <p align="left">
-  [![Gmail Badge](https://img.shields.io/badge/-priscilasousaferreira31@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilasousaferreira31@gmail.com)](mailto:pedrothiagom456@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-pedrothiagom456@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrothiagom456@gmail.com)](mailto:pedrothiagom456@gmail.com)
   <a href="https://www.linkedin.com/in/pedro-thiago-bb3bb326a" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-thiago-bb3bb326a" alt="LinkedIn"/></a>
 </p>
