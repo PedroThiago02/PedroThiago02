@@ -101,3 +101,5 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
     alt="Número de visitantes no perfil"
   />
 </p>
+
+[![Gmail Badge](https://img.shields.io/badge/-pedrothiagom456@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrothiagom456@gmail.com)](mailto:pedrothiagom456@gmail.com)
