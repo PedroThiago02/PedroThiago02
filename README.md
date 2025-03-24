@@ -37,7 +37,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
+- [Projeto 1](https://[github.com/PedroThiago02/Calculadora-Delphi]): Projeto simples de uma calculadora desenvolvida com linguaguem Delphi 12.
 - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
