@@ -21,10 +21,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php,delphi)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php,sql)](https://skillicons.dev)
 - Frameworks e Bibliotecas:
 
-    [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
@@ -33,7 +33,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
