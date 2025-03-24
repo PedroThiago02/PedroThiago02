@@ -1,11 +1,3 @@
-<head>
-<style>
-  .delphi{
-    border-radius: 30px;
-  }
-</style>
-</head>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Pedro Thiago de Souza Matias
@@ -29,7 +21,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php)](https://skillicons.dev)<img class="delphi" src="https://i.ibb.co/zT29Hc0n/Design-sem-nome-1.png">
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php)](https://skillicons.dev)<img src="https://i.ibb.co/xKnNddMR/Design-sem-nome-3.png" border="0">
 - Frameworks e Bibliotecas:
 
     [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,ts)](https://skillicons.dev)
