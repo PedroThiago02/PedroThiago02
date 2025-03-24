@@ -22,8 +22,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 - Linguagens de Programação: 
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+- Frameworks e Bibliotecas:
 
+    [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
