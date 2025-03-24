@@ -92,3 +92,14 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 </p>
 
 ---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/pedrothiago02/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
