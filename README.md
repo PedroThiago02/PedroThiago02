@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 <p align="left">
    <a href="mailto:pedrothiagom456@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrothiagom456@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-pedrothiagom456@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrothiagom456@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/pedro-thiago-bb3bb326a" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-thiago-bb3bb326a" alt="LinkedIn"/></a>
 </p>
@@ -101,5 +101,3 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
     alt="Número de visitantes no perfil"
   />
 </p>
-
-[![Gmail Badge](https://img.shields.io/badge/-pedrothiagom456@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrothiagom456@gmail.com)](mailto:pedrothiagom456@gmail.com)
