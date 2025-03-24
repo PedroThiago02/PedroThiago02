@@ -5,8 +5,7 @@
 </p>
 
  E-mail: pedroth987@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/pedro-thiago-bb3bb326a
-
+<button href="https://www.linkedin.com/in/pedro-thiago-bb3bb326a">Linkedin</button>
 ### Hellooo! 👋 Welcome to my profile
 
 My name is Pedro Thiago and ...:
