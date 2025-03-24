@@ -44,7 +44,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <table>
   <tr>
