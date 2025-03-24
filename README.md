@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 </p>
 
 <p align="left">
-  <a href="pedrothiagom456@gmail.com" title="Gmail">
+  <a href="mailto:pedrothiagom456@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrothiagom456@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/pedro-thiago-bb3bb326a" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-thiago-bb3bb326a" alt="LinkedIn"/></a>
@@ -38,7 +38,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 ## 🏆 Projetos Destacados
 
 - [Calculadora Delphi](https://github.com/PedroThiago02/Calculadora-Delphi): Projeto simples de uma calculadora desenvolvida com linguaguem Delphi 12.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
+- [Página de Login](https://github.com/PedroThiago02/Login): Desenvolvimente web de uma página de login, utilizando apenas HTML5 e CSS3 (front-end).
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
 
