@@ -39,7 +39,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - [Calculadora Delphi](https://github.com/PedroThiago02/Calculadora-Delphi): Projeto simples de uma calculadora desenvolvida com linguaguem Delphi 12.
 - [Página de Login](https://github.com/PedroThiago02/Login): Desenvolvimente web de uma página de login, utilizando apenas HTML5 e CSS3 (front-end).
-- [Meu S]([https://github.com/PedroThiago02/my-personal-website): Meu Web Site Pessoal, onde descreve várias informações sobre minha pessoa, criado com HTML5, CSS3, JavaScript e SASS.
+- [Meu Site Pessoal](https://github.com/PedroThiago02/my-personal-website): Meu Web Site Pessoal, onde descreve várias informações sobre minha pessoa, criado com HTML5, CSS3, JavaScript e SASS.
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
