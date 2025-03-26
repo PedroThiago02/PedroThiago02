@@ -66,7 +66,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pedrothiago02&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pedrothiago02&theme=dark&hide_border=true"
         alt="Github Stats"
       />
     </td>
