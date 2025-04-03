@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php,ts,blade)](https://skillicons.dev)­­ ­­­­ ­­<a href="https://skillicons.dev/"><img src="https://i.ibb.co/SL7x5rM/Design-sem-nome-6.png" alt="Design-sem-nome-6" border="0"></a>
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php,ts,pascal)](https://skillicons.dev)­­ ­­­­ ­­<a href="https://skillicons.dev/"><img src="https://i.ibb.co/SL7x5rM/Design-sem-nome-6.png" alt="Design-sem-nome-6" border="0"></a>
 - Frameworks e Bibliotecas:
 
     [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,ts)](https://skillicons.dev)
