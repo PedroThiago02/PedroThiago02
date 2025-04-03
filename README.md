@@ -19,10 +19,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php,ts,pascal)](https://skillicons.dev)­­ ­­­­ ­­<a href="https://skillicons.dev/"><img src="https://i.ibb.co/SL7x5rM/Design-sem-nome-6.png" alt="Design-sem-nome-6" border="0"></a>
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python,php)](https://skillicons.dev)­­ ­­­­ ­­<a href="https://skillicons.dev/"><img src="https://i.ibb.co/SL7x5rM/Design-sem-nome-6.png" alt="Design-sem-nome-6" border="0"></a>
 - Frameworks e Bibliotecas:
 
-    [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,ts)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap)](https://skillicons.dev)
 - Banco de Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,php)](https://skillicons.dev)
@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,aws,wordpress,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,figma,sass,ts)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,figma,sass)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
