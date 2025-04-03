@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Pedro Thiago de Souza Matias
+<h1>Pedro Thiago de Souza Matias</h1> 
 
 <p align="left"> 
   <strong>👋 Olá!</strong>
