@@ -44,7 +44,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ---
 
-### ⚙️ GitHub Analytics
+### ⚙️ Análise do GitHub
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ---
 
-### 🏆 GitHub Profile Trophy
+### 🏆 Troféu de perfil do GitHub
 
 <p align="center">
   <a
@@ -84,7 +84,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Contagem de visitantes do perfil</b></h3>
 </div>
 
 <p align="center">
