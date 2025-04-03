@@ -51,7 +51,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PedroThiago02&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=pedrothiago02&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
