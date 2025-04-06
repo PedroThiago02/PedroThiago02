@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 ## 🏆 Projetos Destacados
 
 - [Calculadora Delphi](https://github.com/PedroThiago02/Calculadora-Delphi): Projeto simples de uma calculadora desenvolvida com linguaguem Delphi 12.
-- [Página de Login](https://github.com/PedroThiago02/Login): Desenvolvimente web de uma página de login, utilizando apenas HTML5 e CSS3 (front-end).
+- [Meu Site Pessoal](https://pedrothiago02.github.io/Meu-Site-Pessoal): Desenvolvimente web de uma site pessoal utilizando HTML5, CSS3, JavaScript e Bootstrap 5 (front-end).
 - [Loja Virtual com Laravel e PHP](https://github.com/PedroThiago02/Loja-Virtual-Laravel/tree/main):Site de uma loja virtual (ainda está em desenvolvimento) utilizando o framework Laravel e a linguagem PHP.
 
 
