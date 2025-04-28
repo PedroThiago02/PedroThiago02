@@ -37,8 +37,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - [Calculadora Delphi](https://github.com/PedroThiago02/Calculadora-Delphi): Projeto simples de uma calculadora desenvolvida com linguaguem Delphi 12.
 - [Meu Site Pessoal](https://pedrothiago02.github.io/Meu-Site-Pessoal): Desenvolvimento web de uma site pessoal utilizando HTML5, CSS3, JavaScript e Bootstrap 5 (front-end).
-- [Desafio de Projeto Kotlin](https://github.com/PedroThiago02/aprenda-kotlin-com-exemplos-lab):Site de uma loja virtual (ainda está em desenvolvimento) utilizando o framework Laravel e a linguagem PHP.
-
+- [Desafio de Projeto Kotlin DIO: Meu Primeiro App](https://github.com/PedroThiago02/Meu-Primeiro-App-DIO): O "Meu Primeiro App DIO" é um aplicativo Android simples criado como exercício introdutório no desenvolvimento mobile usando Kotlin e View System tradicional (XML). O projeto tem como objetivo apresentar a estrutura básica de um app Android, práticas de internacionalização (suporte a múltiplos idiomas) e a organização correta de layouts e recursos. Ideal para quem está começando no ambiente Android e deseja entender a base para construir interfaces e configurar o projeto de forma profissional.
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
