@@ -28,10 +28,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=mysql,php)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,aws,wordpress,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,aws,wordpress,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,figma,sass)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,figma)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
