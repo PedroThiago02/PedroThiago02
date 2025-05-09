@@ -14,7 +14,7 @@ jobs:
 
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }} # ← Token com permissão de escrita
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
@@ -22,5 +22,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated" || echo "No changes to commit"
+          git commit -m "generated" || echo "No changes"
           git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }} HEAD:main
