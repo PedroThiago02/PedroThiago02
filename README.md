@@ -26,7 +26,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,spring)](https://skillicons.dev)
 - Banco de Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,h2,postgresql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,idea,postman)](https://skillicons.dev)
