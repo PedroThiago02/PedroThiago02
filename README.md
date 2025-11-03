@@ -32,7 +32,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,idea,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=java,php,javascript,html,css,figma,mysql,laravel,idea,spring,wordpress)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,javascript,html,css,figma,mysql,laravel,idea,spring,wordpress)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
