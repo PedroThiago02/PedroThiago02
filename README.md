@@ -40,7 +40,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
   
 - [Meu Site Pessoal](https://pedrothiago02.github.io/Meu-Site-Pessoal): Desenvolvimento web de uma site pessoal utilizando HTML5, CSS3, JavaScript e Bootstrap 5 (front-end).
   
-- [Desafio de Projeto Kotlin DIO: Meu Primeiro App](https://github.com/PedroThiago02/Meu-Primeiro-App-DIO): O projeto tem como objetivo apresentar a estrutura básica de um app Android, práticas de internacionalização (suporte a múltiplos idiomas) e a organização correta de layouts e recursos.
+- [Workshop Spring Boot 3 JPA DIO: Construindo uma API RESTful com Java 21](https://github.com/PedroThiago02/workshop-springboot3-jpa): O projeto tem como objetivo demonstrar a estrutura básica de uma aplicação Spring Boot 3 com JPA, abordando a criação de uma API RESTful com entidades relacionadas, persistência de dados e boas práticas de organização em camadas dentro do ecossistema Java 21.
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
